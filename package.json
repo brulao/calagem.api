@@ -1,0 +1,16 @@
+{
+  "name": "calagem.api",
+  "version": "1.0.0",
+  "description": "API do aplicativo de cálculo de calagem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Maia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  }
+}
